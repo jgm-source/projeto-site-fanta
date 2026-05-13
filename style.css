@@ -138,7 +138,7 @@ body::-webkit-scrollbar{
     width: 100%;
     min-height: 100vh;
     background-color: #4D231C;
-}
+} /*Parte que define o tamanho da sessão 2*/
 
 .left-side, .two-right {
     display: flex;
@@ -147,24 +147,25 @@ body::-webkit-scrollbar{
     flex-direction: column;
     gap: 5vh;
     width: 50%;
-}
+} /*Parte que define o tamanho da parte esquerda e direita da sessão 2*/
 
 .left-side svg {
-    margin-top: 50vh;
-    width: 90%;
+    margin-top: 40vh;
+    width: 64%;
+    margin-left: 15%;
     transform: rotateX(50deg);
-}
+} /*Parte que define o tamanho do svg da parte esquerda da sessão 2*/
 
 .two-right h2 {
     font-size: 5vw;
     color: white;
-}
+} /*Parte que define o tamanho do título da parte direita da sessão 2*/
 
 .two-right p {
     color: white;
     font-size: 1vw;
     width: 80%;
-}
+} /*Parte que define o tamanho do parágrafo da parte direita da sessão 2*/
 
 /*Editando a terceira sessão*/
 
