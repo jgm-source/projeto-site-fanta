@@ -208,15 +208,15 @@ body::-webkit-scrollbar{
 
 #cocacola {
     position: absolute;
-    top: -15%;
-    width: 60%;
+    top: -10%;
+    width: 110%;
     left: 50%;
     transform: translate(-50%, 0%);
 }
 #pepsi {
     position: absolute;
-    width: 85%;
-    top: -15%;
+    width: 110%;
+    top: -10%;
     left: 50%;
     transform: translate(-50%, 0%);
 }
