@@ -19,3 +19,12 @@ tl.to(
     'orange'
 ); // Sincronizando a animação com a animação 'orange'
 
+tl.to(
+    '#laranja-cortada',
+    {
+        top: '160%', //quando move para 160% do topo
+        left: '23%', //Move elemento para 23% da esquerda
+    },
+    'orange'
+); // Sincronizando a animação com a animação 'orange'
+
