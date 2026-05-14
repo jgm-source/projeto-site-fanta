@@ -107,7 +107,7 @@ tl2.to(
     '#laranja-cortada',
     {
         width: '18%', //Aumenta a largura do elemento para 18%
-        left: '42%', //Move elemento para 42% da esquerda
+        left: '41%', //Move elemento para 42% da esquerda
         top: '213%', //Move elemento para 213% do topo
     },
     'ca'
@@ -116,7 +116,7 @@ tl2.to(
     '#fanta',
     {
         width: '33%', //Aumenta a largura do elemento para 18%
-        left: '34.5%', //Move elemento para 42% da esquerda
+        left: '33.5%', //Move elemento para 42% da esquerda
         top: '222%', //Move elemento para 213% do topo
     },
     'ca'
